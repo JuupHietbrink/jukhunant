@@ -30,3 +30,7 @@ Pure static site — no build step required.
 ## ✏️ Editing the plan
 
 Just edit `index.html` and push to `main`. GitHub Pages will redeploy automatically.
+
+## 🤝 Contributing
+
+If you are **Anant** or **Sukhuma** (or any other appropriately credentialed crew member) and you wish to propose changes — first, congratulations on your taste. Second, please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) before opening a Pull Request. The Articles of Contribution must be observed.
